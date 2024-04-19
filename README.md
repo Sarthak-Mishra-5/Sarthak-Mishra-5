@@ -1,8 +1,9 @@
 # 💫 About Me:
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="165" align="right"/>
+
 🌱 I’m currently learning Full Stack Web Development, Web3<br>💬 Ask me about REST APIs, HTTP, Blockchain<br>📫 How to reach me : sarthakm890@gmail.com
-
-
-## 🌐 Socials:
+<br><br>
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthakk.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakmishra8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarthakm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sarthakk_5) 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
