@@ -33,7 +33,7 @@
 <br/>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sarthakk.5) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://linkedin.com/in/sarthakmishra8) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@Sarthakm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Sarthakk_5)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sarthakk.5) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://linkedin.com/in/sarthakmishra8) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sarthakm890) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Sarthakk_5)
 
 </div>
 
