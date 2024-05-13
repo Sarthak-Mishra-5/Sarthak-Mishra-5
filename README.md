@@ -33,8 +33,7 @@
 <br/>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sarthakk.5) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://linkedin.com/in/sarthakmishra8) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sarthakm890) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Sarthakk_5)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sarthakk.5) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://linkedin.com/in/sarthakmishra8) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sarthakm890) 
 </div>
 
 ```
@@ -71,8 +70,10 @@
 
 # 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center;">
-
+<!--    
 ![](https://github-readme-stats.vercel.app/api?username=sarthak-mishra-5&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+-->
+    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-mishra-5&theme=dark&hide_border=true)<br/>
 
 </div>
